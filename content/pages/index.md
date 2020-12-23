@@ -99,7 +99,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: AG Theme
+meta_title: AG Theme test
 meta_description: The preview of the Azimuth theme
 layout: landing
 ---
