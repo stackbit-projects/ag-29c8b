@@ -99,7 +99,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: Stackbit Azimuth Theme
+meta_title: AG Theme
 meta_description: The preview of the Azimuth theme
 layout: landing
 ---
