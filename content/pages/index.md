@@ -102,4 +102,5 @@ sections:
 meta_title: AG Theme test
 meta_description: The preview of the Azimuth theme
 layout: landing
+canonical_url: ag82.netlify.app
 ---
