@@ -12,3 +12,5 @@ fields:
       format: markdown
   label: test
   description: test
+pages:
+- content/ok.md
